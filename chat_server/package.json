@@ -1,0 +1,15 @@
+{
+    "name": "chat_server",
+    "version": "1.0.0",
+    "description": "A practical flutter chat app using node and socket.io server side",
+    "main": "server.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "Toni-21",
+    "license": "ISC",
+    "dependencies": {
+        "http": "0.0.1-security",
+        "socket.io": "^2.3.0"
+    }
+}
