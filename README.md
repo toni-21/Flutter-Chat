@@ -1,4 +1,4 @@
-# flutter_chat
+# flutterChat
 
 A new Flutter project.
 
