@@ -1,6 +1,7 @@
-# flutterChat
+# FlutterChat
 
-A new Flutter project.
+A new Flutter project.  
+A light chatroom-based chat app built using flutter and javascript for the server. Socketio technologies were employed.
 
 ## Getting Started
 
